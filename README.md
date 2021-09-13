@@ -1,9 +1,9 @@
-# Hi There, I'm Mohammad 👋
+<h1 align='center'>Hi There, I'm Mohammad 👋</h1>
 
 ## About me:
 * From Jordan/Tafila 🇯🇴
 * An ISE Student at [TTU](http://www.ttu.edu.jo) 👨‍🎓
-* Co-Founder of [ISE Community](https://www.facebook.com/isettu) 👨🏻‍💻
+* Co-Founder‎ of [ISE Community](https://www.facebook.com/isettu) 👨🏻‍💻
 
 <br>
 
