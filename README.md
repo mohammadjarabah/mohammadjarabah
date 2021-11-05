@@ -1,10 +1,12 @@
 <h1 align='center'>
-    <img src='./img.svg' height='60px'>
+    <img src='https://readme-typing-svg.herokuapp.com?font=Roboto&color=000000&size=28&center=true&vCenter=true&lines=Hi+There%2C+I&apos;m+Mohammad+%F0%9F%91%8B'>
 </h1>
 
-This repository is like a container of my Front-End projects I have worked on 👨‍💻. I hope you enjoy while visiting them ✨.
+### About me:
+* 🇯🇴 From Jordan/Tafilah
+* 👨‍🎓 An ISE Student at [TTU](http://www.ttu.edu.jo)
+* 🇵🇸 Support [Palestine](https://twitter.com/hashtag/FreePalestine) | [فلسطين](https://twitter.com/hashtag/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86)
 
-## Projects
-
-### Single Page Designs:
-* [Leon Agency's Portfolio](https://github.com/mohammad-jarabah/Leon-Agency-Portfolio)
+### My portfolio:
+* 🤖 [Click here](https://github.com/mohammad-jarabah/Front-End-Projects) to see my Front-End projects
+* ✨ [Click here](https://codepen.io/mohammad-Jarabah) to see my pens on CodePen
