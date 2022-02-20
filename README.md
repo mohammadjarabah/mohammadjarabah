@@ -10,4 +10,4 @@
 ### My portfolio:
 * 🚀 [Click here](https://github.com/mohammad-jarabah/Front-End-Projects) to see my Front-End projects
 * ✨ [Click here](https://codepen.io/mohammad-jarabah) to see my pens on CodePen
-* 👨🏻‍💻 [Click here](mj.urspace.io) to visit my personal website
+* 👨🏻‍💻 [Click here](https://mj.urspace.io) to visit my personal website
