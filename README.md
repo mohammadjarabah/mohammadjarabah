@@ -9,6 +9,6 @@
 * 🇵🇸 Support [Palestine](https://twitter.com/hashtag/FreePalestine) | [فلسطين](https://twitter.com/hashtag/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86)
 
 ### My portfolio:
-* 🚀 [Click here](https://github.com/mohammad-jarabah/Front-End-Projects) to see my Front-End projects
+* 🚀 [Click here](https://github.com/mohammadjarabah/Front-End-Projects) to see my Front-End projects
 * ✨ [Click here](https://codepen.io/mohammad-jarabah) to see my pens on CodePen
 * 👨🏻‍💻 [Click here](https://mj.urspace.io) to visit my personal website
