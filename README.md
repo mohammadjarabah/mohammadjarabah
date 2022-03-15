@@ -10,5 +10,5 @@
 
 ### My portfolio:
 * 🚀 [Click here](https://github.com/mohammadjarabah/Front-End-Projects) to see my Front-End projects
-* ✨ [Click here](https://codepen.io/mohammad-jarabah) to see my pens on CodePen
+* ✨ [Click here](https://codepen.io/mohammad-jarabah) to see my pens on Codepen
 * 👨🏻‍💻 [Click here](https://mj.urspace.io) to visit my personal website
