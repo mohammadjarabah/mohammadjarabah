@@ -6,7 +6,7 @@
 * 🇯🇴 From Jordan, Tafilah
 * 👨‍🎓 An ISE Student at [TTU](http://www.ttu.edu.jo)
 * 🦾 Founder of [ISE Reference](https://t.me/ise_reference_bot) Chatbot
-* 🇵🇸 [Palestine](https://twitter.com/hashtag/FreePalestine) is my cause
+* 🇵🇸 [Palestine](https://twitter.com/hashtag/FreePalestine) is My Cause
 
 ### My Work:
 - 🚀 [Visit](https://github.com/mohammadjarabah/Front-End-Projects) my Front-End projects
