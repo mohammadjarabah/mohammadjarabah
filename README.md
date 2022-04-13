@@ -9,6 +9,6 @@
 * 🇵🇸 [Palestine](https://twitter.com/hashtag/FreePalestine) is my cause
 
 ### My Work:
-- 🚀 [Visit](https://github.com/mohammadjarabah/Front-End-Projects) my front-end projects
+- 🚀 [Visit](https://github.com/mohammadjarabah/front-end-projects) my front-end projects
 - 🌱 [Visit](https://codepen.io/mohammadjarabah) my pens on Codepen
 <!-- - ⭐ [Visit]() my personal website -->
