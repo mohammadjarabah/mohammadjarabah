@@ -5,7 +5,7 @@
 ### About Me:
 * 🇯🇴 From Jordan, Tafilah
 * 👨‍🎓 An ISE student at [TTU](http://www.ttu.edu.jo)
-* 🦾 Founder of [ISE Reference](https://t.me/ise_reference_bot) chatbot
+* 🦾 The founder of [ISE Reference](https://t.me/ise_reference_bot) chatbot
 * 🇵🇸 [Palestine](https://twitter.com/hashtag/FreePalestine) is my cause
 
 ### My Work:
