@@ -3,7 +3,7 @@
 </h1>
 
 ### About Me:
-* 🇯🇴 From Jordan, Tafilah
+* 🇯🇴 From Tafilah, Jordan
 * 👨‍🎓 An ISE student at [TTU](http://www.ttu.edu.jo)
 * 🦾 The founder of [ISE Reference](https://t.me/ise_reference_bot) chatbot
 * 🇵🇸 [Palestine](https://twitter.com/hashtag/FreePalestine) is my cause
