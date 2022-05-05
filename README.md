@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img src='./logo.svg' height='80px'>
+    <img src='./images/logo.svg' height='80px'>
 </h1>
 
 ### About Me:
@@ -13,5 +13,5 @@
 <!-- - ⭐ [Visit]() my personal website -->
 
 ### Contact Me:
-* Find me at: <a href='https://linkedin.com/in/mohammadjarabahh'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' valign='middle'></a>
-* Contact me via: <a href='mailto:mj.contactwithme@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' valign='middle'></a>
+* Find me at: <a href='https://linkedin.com/in/mohammadjarabahh'><img src='./images/linkedin.svg' valign='middle'></a>
+* Contact me via: <a href='mailto:mj.contactwithme@gmail.com'><img src='./images/email.svg' valign='middle'></a>
