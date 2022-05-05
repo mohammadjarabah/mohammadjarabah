@@ -11,3 +11,7 @@
 * 🚀 [Visit](https://github.com/mohammadjarabah/front-end-projects) my front-end projects
 * 🌱 [Visit](https://codepen.io/mohammadjarabah) my pens on Codepen
 <!-- - ⭐ [Visit]() my personal website -->
+
+### Contact Me:
+* Find me at: <a href='https://linkedin.com/in/mohammadjarabahh'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' valign='middle'></a> <a href='https://codepen.io/mohammadjarabah'><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' valign='middle'></a>
+* Contact me via: <a href='mailto:mj.contactwithme@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' valign='middle'></a>
