@@ -10,7 +10,7 @@
 ### My Work:
 * 🚀 [Visit](https://github.com/mohammadjarabah/front-end-projects) my front-end projects
 * 🌱 [Visit](https://codepen.io/mohammadjarabah) my pens on Codepen
-<!-- - ⭐ [Visit]() my personal website -->
+<!-- * ⭐ [Visit]() my portfolio website -->
 
 ### Contact Me:
 * 🔗 Contact me via: <a href='https://linkedin.com/in/mohammadjarabahh'><img src='./images/linkedin.svg' width='25px' valign='middle'></a> <a href='mailto:mj.contactwithme@gmail.com'><img src='./images/email.svg' width='25px' valign='middle'></a>
