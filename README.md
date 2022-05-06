@@ -13,4 +13,5 @@
 <!-- * ⭐ [Visit]() my portfolio website -->
 
 ### Contact Me:
-* 🔗 Contact me via: <a href='https://linkedin.com/in/mohammadjarabahh'><img src='./images/linkedin.svg' width='25px' valign='middle'></a> <a href='mailto:mj.contactwithme@gmail.com'><img src='./images/email.svg' width='25px' valign='middle'></a>
+* 🔗 Find me at: <a href='https://linkedin.com/in/mohammadjarabahh'><img src='./images/linkedin.svg' width='25px' valign='middle'></a> <a href='https://codepen.io/mohammadjarabahh'><img src='./images/codepen.svg' width='25px' valign='middle'></a> 
+* 🔗 Contact me via: <a href='mailto:mj.contactwithme@gmail.com'><img src='./images/email.svg' width='25px' valign='middle'></a>
