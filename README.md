@@ -6,7 +6,7 @@
     <a href='https://linkedin.com/in/mohammadjarabahh'>
         <img src='./images/linkedin.svg' width='25px' valign='middle'>
     </a>
-    <a href='https://codepen.io/mohammadjarabahh'>
+    <a href='https://codepen.io/mohammadjarabah'>
         <img src='./images/codepen.svg' width='25px' valign='middle'>
     </a> 
     <a href='mailto:mj.contactwithme@gmail.com'>
