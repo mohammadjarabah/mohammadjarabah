@@ -3,7 +3,7 @@
 </h1>
 
 <div align='center'>
-    <a href='https://linkedin.com/in/mohammadjarabahh'>
+    <a href='https://linkedin.com/in/mohammadjarabah'>
         <img src='./images/linkedin.svg' width='25px' valign='middle'>
     </a>
     <a href='https://codepen.io/mohammadjarabah'>
