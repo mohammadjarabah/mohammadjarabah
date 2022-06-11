@@ -18,4 +18,4 @@
 
 ### My Work:
 * 🌐 [Visit](https://github.com/mohammadjarabah/frontend-projects) my front-end projects list
-* 🐧 [Visit](https://codepen.io/mohammadjarabah) my pens on Codepen
+* 🐧 [Visit](https://codepen.io/mohammadjarabah/pens/public) my pens on Codepen
