@@ -3,13 +3,13 @@
 </h1>
 
 <div align='center'>
-    <a href='https://linkedin.com/in/mohammadjarabah'>
+    <a href='https://linkedin.com/in/mohammadjarabah' title='Linkedin'>
         <img src='./images/linkedin.svg' width='25px' valign='middle'>
     </a>
-    <a href='https://codepen.io/mohammadjarabah'>
+    <a href='https://codepen.io/mohammadjarabah' title='Codepen'>
         <img src='./images/codepen.svg' width='25px' valign='middle'>
     </a>
-    <a href='https://bio.link/mohammadjarabah'>
+    <a href='https://bio.link/mohammadjarabah' title='Website'>
         <img src='./images/website.svg' width='25px' valign='middle'>
     </a>
 </div>
