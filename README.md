@@ -16,7 +16,7 @@
 
 ### About Me:
 * 🇯🇴 From Tafilah, Jordan
-* 🍃 An Intelligent Systems Engineering student at [TTU](http://www.ttu.edu.jo)
+* 🍃 An <img src='' title='ISE stands for Intelligent Systems Engineering' alt='Info Icon'/> ISE student at [TTU](http://www.ttu.edu.jo)
 * 🇵🇸 [Palestine](https://twitter.com/hashtag/FreePalestine) is my cause
 
 ### My Work:
