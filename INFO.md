@@ -1,5 +1,5 @@
 <h1 align='center'>
-  <img src='./images/info-header.png' height='30px'>
+  <img src='./images/info-header.svg' height='35px'>
 </h1>
 
 ℹ In this section, I spell out the abbreviations I use!
