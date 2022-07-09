@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img src='./images/header.svg' height='80px'>
+    <img src='./images/main-header.svg' height='80px'>
 </h1>
 
 <div align='center'>
