@@ -16,7 +16,7 @@
 
 ### About Me:
 * 🇯🇴 From Tafilah, Jordan
-* 🍃 An [<img src='./images/info.svg' alt='Info Icon' width='17px' valign='middle'/>](./INFO.md) ISE student at [TTU](http://www.ttu.edu.jo)
+* 🍃 An ISE (see [<img src='./images/info.svg' alt='Info Icon' width='17px' valign='middle'/>](./INFO.md)) student at [TTU](http://www.ttu.edu.jo)
 * 🇵🇸 [Palestine](https://twitter.com/hashtag/FreePalestine) is my cause
 
 ### My Work:
