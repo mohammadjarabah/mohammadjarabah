@@ -4,3 +4,4 @@
 </h1>
 
 * ISE stands for “Intelligent Systems Engineering”.
+* TTU stands for “Tafilah Technical University”.
