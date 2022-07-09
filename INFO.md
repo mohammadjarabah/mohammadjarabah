@@ -1,6 +1,5 @@
 <h1 align='center'>
-  <img src='./images/info.svg' alt='Info Icon' width='35px' valign='middle'/>
-  Info Section
+  <img src='./images/info-header.png' height='30px'>
 </h1>
 
 * ISE stands for “Intelligent Systems Engineering”.
